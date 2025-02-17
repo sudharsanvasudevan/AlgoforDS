@@ -1,0 +1,16 @@
+user_prompt,url_to_check,func_rating,custom_rating
+"I have just been on an international flight, can I come back home to hold my 1-month-old newborn?",https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/expert-answers/air-travel-with-infant/faq-20058539,55,4
+How do I treat a common cold?,https://www.webmd.com/cold-and-flu/cold-guide/common-cold,15,5
+Can I lose weight quickly with intermittent fasting?,https://www.healthline.com/nutrition/intermittent-fasting-guide,53,5
+What are the symptoms of dehydration?,https://www.cdc.gov/nutrition/data-statistics/dehydration.html,15,5
+Does drinking coffee help with weight loss?,https://www.medicalnewstoday.com/articles/caffeine-and-weight-loss,15,4
+Are vaccines safe for children?,https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination,48,5
+What are the side effects of eating too much sugar?,https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars,15,5
+Can I use home remedies to cure allergies?,https://www.mayoclinic.org/diseases-conditions/allergies/diagnosis-treatment/drc-20351497,15,4
+How does climate change affect ocean life?,https://oceanservice.noaa.gov/facts/climate.html,15,5
+Is meditation effective for reducing stress?,https://www.nih.gov/news-events/nih-research-matters/meditations-calming-effect,15,5
+What are the benefits of a Mediterranean diet?,https://www.health.harvard.edu/blog/mediterranean-diet-2020100921134,15,5
+How does sleep affect mental health?,https://www.sleepfoundation.org/mental-health,15,5
+Can drinking water improve skin health?,https://www.aad.org/public/everyday-care/skin-care-basics/dry/water-skin,15,4
+How does stress impact the immune system?,https://www.apa.org/topics/stress/body,15,5
+What are the health benefits of yoga?,https://www.hopkinsmedicine.org/health/wellness-and-prevention/the-health-benefits-of-yoga,15,5
